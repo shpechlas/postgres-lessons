@@ -1,0 +1,3 @@
+[submodule "pg-course-template"]
+	path = pg-course-template
+	url = https://github.com/Feolius/pg-course-template.git
